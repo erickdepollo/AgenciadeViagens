@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header p {
+  color: #ffffff;
+}
+
+.carousel-caption {
+  text-shadow: 2px 2px 2px black;
+  font-size: 80px;
+  color: #ffc107;
+}
+
+h1 {
+  font-size: 63px;
+  color: #ffffff;
+}
+
+h2 {
+  font-size: 54px;
+  color: #303030;
+  font-weight: 600;
+}
